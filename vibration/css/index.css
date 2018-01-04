@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#txt {
+  display: flex;
+  align-items: end;
+}
+
+#txt > img {
+  margin-right: 10px;
+}

@@ -1,0 +1,10 @@
+.label {
+	margin: -150px 0 0 -150px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+
+#font_1 {
+	display: none;
+}

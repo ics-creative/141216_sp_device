@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+#accuracy {
+  margin: 0;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #000000;
+  color: #ffffff;
+}

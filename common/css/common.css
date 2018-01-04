@@ -1,0 +1,14 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	touch-action: none;
+}
+
+body {
+	background: url(../images/bg.png);
+	overflow: hidden;
+}
+
+img {
+	vertical-align: top;
+}
